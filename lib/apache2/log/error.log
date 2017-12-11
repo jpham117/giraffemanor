@@ -1,0 +1,9 @@
+[Mon Dec 11 01:36:18.575346 2017] [mpm_prefork:notice] [pid 3097] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Dec 11 01:36:18.575419 2017] [core:notice] [pid 3097] AH00094: Command line: 'apache2'
+[Mon Dec 11 01:36:28.934456 2017] [core:info] [pid 3110] [client 10.240.0.194:54430] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://giraffe-manor-jpham117.c9users.io/hello-world.html
+[Mon Dec 11 01:36:39.342762 2017] [mpm_prefork:notice] [pid 3097] AH00169: caught SIGTERM, shutting down
+[Mon Dec 11 01:36:40.460435 2017] [mpm_prefork:notice] [pid 3692] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Dec 11 01:36:40.460500 2017] [core:notice] [pid 3692] AH00094: Command line: 'apache2'
+[Mon Dec 11 06:14:46.212223 2017] [mpm_prefork:notice] [pid 3692] AH00169: caught SIGTERM, shutting down
+[Mon Dec 11 06:14:48.091374 2017] [mpm_prefork:notice] [pid 9747] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Dec 11 06:14:48.091440 2017] [core:notice] [pid 9747] AH00094: Command line: 'apache2'
